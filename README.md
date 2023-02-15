@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Pika Utilities.<br><br>🌱 I’m currently learning TypeScript.<br><br>👨‍💻 All of my projects are available at https://i.mrspeedy.tk<br><br>⚡ Fun fact: I am a creeper <3
+🔭 I’m currently working on **Pika Utilities**.<br><br>🌱 I’m currently learning **TypeScript**.<br><br>👨‍💻 All of my projects are available at https://i.mrspeedy.tk<br><br>⚡ Fun fact: **I am a creeper** <3
 
 
 ## 🌐 Socials:
