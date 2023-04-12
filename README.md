@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on **Pika Utilities**.<br><br>🌱 I’m currently learning **TypeScript**.<br><br>👨‍💻 All of my projects are available at https://i.mrspeedy.tk<br><br>⚡ Fun fact: **I am a creeper** <3
+🔭 I’m currently working on **Chione**.<br><br>🌱 I’m currently learning **TypeScript**.<br><br>👨‍💻 All of my projects are available at https://mrspeedy.tk<br><br>⚡ Fun fact: **I am only 14!** <3
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FszEJdjfK4) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mrspeedycreeper) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MrSpeedy35) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FszEJdjfK4) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MrSpeedy35) 
 
 
 # 💻 Tech Stack:
@@ -14,11 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=MrSpeedy35&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrSpeedy35&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSpeedy35&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=mrspeedycreeper)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 
 
 ### ✍️ Random Dev Quote
