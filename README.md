@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Chione**.<br><br>🌱 I’m currently learning **TypeScript**.<br><br>👨‍💻 My portfolio is available at https://mrspeedy.tk<br><br>⚡ Fun fact: **I am only 14!** <3
+🔭 I’m currently working on **JpexNodes**.<br><br>🌱 I’m currently learning **Bash**.<br><br>👨‍💻 My portfolio is available at https://mrspeedy.tk<br><br>⚡ Fun fact: **I am only 14!** <3
 
 
 ## 🌐 Socials:
