@@ -1,20 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on **JpexNodes**.<br><br>🌱 I’m currently learning **Bash**.<br><br>👨‍💻 My portfolio is available at https://mrspeedy.tk<br><br>⚡ Fun fact: **I am only 14!** <3
+## About Me
+Hello! I'm [**Ahmad Abdullah**](https://github.com/ImAhmadAbdullah)! 🌟 I'm a self-taught [**programmer**](https://www.computerscience.org/careers/computer-programmer/) from [**Dhaka, Bangladesh**](https://en.wikipedia.org/wiki/Dhaka). I enjoy coding with [**JavaScript**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/) and [**TypeScript**](https://www.typescriptlang.org/), building [**APIs**](https://www.ibm.com/topics/api) with [**Express**](https://expressjs.com/), making [**Discord bots**](https://expressjs.com/) with [**discord.js**](https://discord.js.org/), and creating [**Minecraft mods**](https://minecraft.wiki/w/Mods) using [**ChatTriggers**](https://www.chattriggers.com/slate/#introduction). Occasionally, I make [**NPM modules**](https://www.npmjs.com/) too! 🚀
 
+> Most of my coding experience come from closed source projects, but I'm
+> excited about diving into open source collaborations soon! Let's
+> create something awesome together! 😊👨‍💻
+## Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=js,ts,bash,r,git,mysql,mongodb,discordbots,nodejs,express,vscode,idea,cloudflare,vercel,replit)](https://github.com/ImAhmadAbdullah)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FszEJdjfK4) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MrSpeedy35) 
+## Github Statstics
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImAhmadAbdullah&show_icons=true&theme=tokyonight)](https://github.com/ImAhmadAbdullah)
+[![GitHub HyoChan Stats](https://stats.hyochan.dev/api/github-stats?login=ImAhmadAbdullah)](https://github.com/ImAhmadAbdullah)
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MrSpeedy35&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrSpeedy35&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSpeedy35&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Developer Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
