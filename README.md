@@ -9,4 +9,4 @@ Hello! I'm [**Ahmad Abdullah**](https://github.com/ImAhmadAbdullah)! 🌟 I'm a 
 [![GitHub HyoChan Stats](https://stats.hyochan.dev/api/github-stats?login=ImAhmadAbdullah)](https://github.com/ImAhmadAbdullah)
 
 ## Developer Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/ImAhmadAbdullah)
